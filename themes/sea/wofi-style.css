@@ -1,0 +1,38 @@
+window {
+    background-color: rgba(18, 113, 104, 0.85);
+    border: 5px solid #daaa60;
+    border-radius: 30px;
+}
+
+#input {
+    background-color: #f2d17b;
+    color: black;
+    border: 3px solid #f2d16b;
+    border-radius: 30px;
+    padding: 8px 8px;
+    margin: 8px;
+}
+
+#outer-box {
+    padding: 10px;
+}
+
+#entry {
+    padding: 8px 8px;
+    border-radius: 20px;
+    color: #cdd6f4;
+}
+
+#entry:selected {
+    background-color: #f04f01;
+    color: #f04f01;
+    outline: none;
+}
+
+#entry:focus {
+    outline: none;
+}
+
+#input:focus {
+    outline: none;
+}

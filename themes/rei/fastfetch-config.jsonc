@@ -1,0 +1,44 @@
+{  
+	"logo": {
+  "source": "~/.config/hypr/themes/rei/reipfp.jpg",
+  "type": "kitty-icat",
+  "width": 40,
+  "height": 40,
+  "padding": {
+    "right": 5
+  },
+  "color": {
+    "1": "35"
+  }
+  },
+  "$schema": "https://github.com/fastfetch-cli/fastfetch/raw/master/doc/json_schema.json",
+  "modules": [
+    "title",
+    "separator",
+    "os",
+    "host",
+    "kernel",
+    "uptime",
+    "packages",
+    "shell",
+    "display",
+    "de",
+    "wm",
+    "wmtheme",
+    "theme",
+    "icons",
+    "font",
+    "cursor",
+    "terminal",
+    "terminalfont",
+    "cpu",
+    "gpu",
+    "memory",
+    "swap",
+    "disk",
+    "poweradapter",
+    "locale",
+    "break",
+    "colors"
+  ]
+}
